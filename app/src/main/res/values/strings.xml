@@ -5,5 +5,21 @@
     <string name="basic_theme">Basic Theme</string>
     <string name="sec_theme">Sec Theme</string>
 
+    <string-array name="values">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Five</item>
+        <item>Sex</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+        <item>Eleven</item>
+        <item>Twelve</item>
+        <item>Thirteen</item>
+        <item>Fourteen</item>
+        <item>Fifteen</item>
+    </string-array>
 
 </resources>
