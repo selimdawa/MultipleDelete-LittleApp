@@ -32,7 +32,7 @@ android {
         targetCompatibility = JavaVersion.VERSION_17
     }
     buildFeatures {
-        dataBinding = true
+        viewBinding = true
     }
 }
 
@@ -47,6 +47,4 @@ dependencies {
     //Layout
     implementation(libs.androidx.constraintlayout)
     implementation(libs.material)
-    //Other's
-    implementation(libs.androidx.lifecycle.extensions)
 }
